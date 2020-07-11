@@ -1,6 +1,8 @@
-# HackerNews Sorted
+<h1 align="center"> HackerNews Sorted </h1>
 
-Chrome Extension that sorts the HackerNews homepage by score
+<h3 align="center">
+  Chrome Extension that sorts the HackerNews Homepage by Score
+</h3>
 
 ![HackerNews Sorted](hackernews-sorted-demo.png)
 
