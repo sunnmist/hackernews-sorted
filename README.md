@@ -2,6 +2,8 @@
 
 Chrome Extension that sorts the HackerNews homepage by score
 
+![HackerNews Sorted](hackernews-sorted-demo.png)
+
 # Installation
 
 ### This extension is not currently available in the Chrome Extension store.
