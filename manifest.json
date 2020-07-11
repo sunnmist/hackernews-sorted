@@ -1,0 +1,18 @@
+{
+  "name": "HackerNews Sorted",
+  "description": "Sorts HackerNews by Score",
+  "version": "1.0",
+  "permissions": ["tabs", "http://*/*", "https://*/*"],
+  "browser_action": {
+    "default_title": "HackerNews Sorted",
+    "default_icon": "hackernews-sorted-logo.png",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://news.ycombinator.com/"],
+      "js": ["hackernewsSorted.js"]
+    }
+  ]
+}
